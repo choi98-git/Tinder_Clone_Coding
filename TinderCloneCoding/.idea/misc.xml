@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.21979166666666666" />
+        <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.21979166666666666" />
+        <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/layout/activity_like.xml" value="0.1" />
         <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/layout/activity_match.xml" value="0.2046875" />
+        <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/layout/item_card.xml" value="0.2046875" />
+        <entry key="..\:/android_ex/TinderCloneCoding/app/src/main/res/layout/item_matched_user.xml" value="0.2046875" />
       </map>
     </option>
   </component>

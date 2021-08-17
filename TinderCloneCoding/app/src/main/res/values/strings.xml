@@ -2,4 +2,5 @@
     <string name="app_name">TinderCloneCoding</string>
     <string name="facebook_app_id">2995752404036179</string>
     <string name="fb_login_protocol_scheme">fb2995752404036179</string>
+    <string name="write_name">"이름을 입력해 주세요"</string>
 </resources>

@@ -23,6 +23,9 @@ class MainActivity : AppCompatActivity() {
         // 앱이 실행될 때 로그인이 되어있지 않으면 실행
         if (auth.currentUser == null){
             startActivity(Intent(this,LoginActivity::class.java))
+        } else{
+            startActivity(Intent(this, LikeActivity::class.java))
+            finish()
         }
     }
 }
